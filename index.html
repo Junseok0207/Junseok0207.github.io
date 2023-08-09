@@ -3,16 +3,28 @@ layout: default
 title: Home
 ---
 
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+
+    {% if post.title == 'About me' %}
+      <h1 class="post-title">
+        <a href="{{ post.url | absolute_url }}">
+          {{ post.title }}
+        </a>
+      </h1>
+
+      {{ post.content }}
+    {% endif %}      
 
     {% if post.title == 'News' %}
+      <h1 class="post-title">
+        <a href="{{ post.url | absolute_url }}">
+          {{ post.title }}
+        </a>
+      </h1>
+
       {% assign lines = post.content | strip_html | newline_to_br | split: '<br />' %}
       {% for line in lines limit: 5 %}
         {% assign stripped_line = line | strip_newlines | strip %}
@@ -22,9 +34,10 @@ title: Home
         {% endif %}
       {% endfor %}
       <a href="{{ post.url | absolute_url }}">Read more</a>
-    {% else %}
-    {{ post.content }}
-  {% endif %}
+    {% endif %}
+
+    
+  
 
   </div>
   {% endfor %}
