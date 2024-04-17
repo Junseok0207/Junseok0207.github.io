@@ -5,6 +5,10 @@ title: Publications
 
 ## International Journals
 
+* <span style="color:crimson"> Single-cell RNA Sequencing Data Imputation Using Bi-level Feature Propagation </span>   
+**Junseok Lee<sup>†</sup>**, Seokwon Yun<sup>†</sup>, Yeongmin Kim, Tianlong Chen, Manolis Kellis, Chanyoung Park  
+Briefings in Bioinformatics (2024)
+
 * <span style="color:crimson"> Deep Single-cell RNA-seq data Clustering with Graph Prototypical Contrastive Learning </span>   
 **Junseok Lee**, Sungwon Kim, Dongmin Hyun, Namkyeong Lee, Yejin Kim, Chanyoung Park  
 Bioinformatics (2023)
