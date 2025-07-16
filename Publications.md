@@ -19,6 +19,14 @@ Information Sciences (2022)
 
 ## International Conference
 
+* <span style="color:crimson"> Oldie but Goodie: Re-illuminating Label Propagation on Graphs with Partially Observed Features </span>   
+Sukwon Yun, Xin Liu, Yunhak Oh, **Junseok Lee**, Tianlong Chen, Tsuyoshi Murata, Chanyoung Park \\
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining {KDD 2025}
+
+* <span style="color:crimson"> Global Context-aware Representation Learning for Spatially Resolved Transcriptomics </span>   
+Yunhak Oh<sup>†</sup>, **Junseok Lee<sup>†</sup>**, Yeongmin Kim, Sangwoo Seo, Namkyeong Lee, Chanyoung Park \\
+International Conference on Machine Learning (\textbf{ICML 2025})
+
 * <span style="color:crimson"> Subgraph Federated Learning for Local Generalization </span>   
 Sungwon Kim, Yoonho Lee, Yunhak Oh, Namkyeong Lee, Sukwon Yun, **Junseok Lee**, Sein Kim, Carl Yang, Chanyoung Park
 International Conference on Learning Representations (ICLR 2025 Oral Presentation)
