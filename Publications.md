@@ -19,6 +19,10 @@ Information Sciences (2022)
 
 ## International Conference
 
+* <span style="color:crimson"> Subgraph Federated Learning for Local Generalization </span>   
+Sungwon Kim, Yoonho Lee, Yunhak Oh, Namkyeong Lee, Sukwon Yun, **Junseok Lee**, Sein Kim, Carl Yang, Chanyoung Park
+International Conference on Learning Representations (ICLR 2025 Oral Presentation)
+
 * <span style="color:crimson"> Single-cell RNA-seq data imputation using Feature Propagation </span>   
 Seokwon Yun<sup>†</sup>, **Junseok Lee<sup>†</sup>**, Chanyoung Park  
 ICML Workshop on Computational Biology (WCB 2023) (Best Paper, Contributed Talk)
